@@ -1,1 +1,60 @@
-. 
+Aquí tienes los programas enumerados:
+
+1. Imprimir "Hola Mundo": Escribe un programa que imprima "Hola Mundo" en la consola.
+
+2. Suma de dos números: Escribe un programa que solicite al usuario dos números y muestre la suma de ambos.
+
+3. Par o impar: Escribe un programa que determine si un número ingresado por el usuario es par o impar.
+
+4. Número mayor: Escribe un programa que solicite tres números al usuario y determine cuál es el mayor.
+
+5. Área de un círculo: Escribe un programa que calcule el área de un círculo a partir de su radio.
+
+6. Conversión de grados: Escribe un programa que convierta grados Celsius a Fahrenheit.
+
+7. Números del 1 al 100: Escribe un programa que imprima los números del 1 al 100.
+
+8. Suma de números hasta n: Escribe un programa que sume todos los números del 1 al n, donde n es un valor ingresado por el usuario.
+
+9. Factorial: Escribe un programa que calcule el factorial de un número ingresado por el usuario.
+10. Tablas de multiplicar: Escribe un programa que imprima la tabla de multiplicar de un número ingresado por el usuario.
+11. Números primos: Escribe un programa que determine si un número ingresado por el usuario es primo.
+12. Fibonacci: Escribe un programa que imprima los primeros n números de la secuencia de Fibonacci.
+13. Inversión de cadena: Escribe un programa que invierta una cadena de texto ingresada por el usuario.
+14. Palíndromo: Escribe un programa que determine si una cadena de texto es un palíndromo.
+15. Cálculo de promedio: Escribe un programa que calcule el promedio de una lista de números ingresados por el usuario.
+16. Números pares entre dos valores: Escribe un programa que imprima todos los números pares entre dos valores ingresados por el usuario.
+17. Calculadora simple: Escribe un programa que funcione como una calculadora simple (suma, resta, multiplicación, división).
+18. Conversión de unidades: Escribe un programa que convierta metros a pies y pies a metros.
+19. Número mayor en un array: Escribe un programa que encuentre el número mayor en un array de enteros.
+20. Conteo de vocales: Escribe un programa que cuente el número de vocales en una cadena de texto.
+21. Ordenamiento de array: Escribe un programa que ordene un array de enteros de menor a mayor.
+22. Números perfectos: Escribe un programa que determine si un número ingresado por el usuario es un número perfecto.
+23. Juego de adivinanza: Escribe un programa que permita al usuario adivinar un número aleatorio generado por el programa.
+24. Conversión de decimal a binario: Escribe un programa que convierta un número decimal a binario.
+25. Conversión de binario a decimal: Escribe un programa que convierta un número binario a decimal.
+26. Número de ocurrencias: Escribe un programa que cuente cuántas veces aparece un número en un array.
+27. Calculadora avanzada: Escribe un programa que implemente funciones matemáticas avanzadas (potencia, raíz cuadrada).
+28. Matriz transpuesta: Escribe un programa que calcule la matriz transpuesta de una matriz cuadrada.
+29. Multiplicación de matrices: Escribe un programa que multiplique dos matrices.
+30. Patrón de asteriscos: Escribe un programa que imprima un patrón de asteriscos en forma de pirámide.
+31. Cifrado César: Escribe un programa que implemente el cifrado César para encriptar y desencriptar mensajes.
+32. Cuenta regresiva: Escribe un programa que realice una cuenta regresiva desde un número ingresado por el usuario.
+33. Números amigables: Escribe un programa que determine si dos números ingresados por el usuario son números amigables.
+34. Lista enlazada simple: Escribe un programa que implemente una lista enlazada simple y permita agregar y eliminar elementos.
+35. Buscador binario: Escribe un programa que implemente la búsqueda binaria en un array ordenado.
+36. Ordenamiento por burbuja: Escribe un programa que implemente el algoritmo de ordenamiento por burbuja.
+37. Ordenamiento rápido: Escribe un programa que implemente el algoritmo de ordenamiento rápido (quick sort).
+38. Torres de Hanoi: Escribe un programa que resuelva el problema de las Torres de Hanoi para n discos.
+39. Archivo de texto: Escribe un programa que lea y escriba en un archivo de texto.
+40. Cálculo de determinante: Escribe un programa que calcule el determinante de una matriz cuadrada.
+41. Operaciones con conjuntos: Escribe un programa que implemente operaciones de conjuntos como unión, intersección, y diferencia.
+42. Sistema de registro: Escribe un programa que permita registrar usuarios y almacenar su información en un archivo.
+43. Juego de la vida: Escribe un programa que implemente el juego de la vida de Conway.
+44. Dijkstra: Escribe un programa que implemente el algoritmo de Dijkstra para encontrar el camino más corto en un grafo.
+45. Simulación de cola: Escribe un programa que simule una cola de espera en una tienda.
+46. Ordenamiento por selección: Escribe un programa que implemente el algoritmo de ordenamiento por selección.
+47. Cifrado RSA: Escribe un programa que implemente el cifrado RSA para encriptar y desencriptar mensajes.
+48. Compresión de texto: Escribe un programa que implemente un algoritmo básico de compresión de texto (por ejemplo, Huffman).
+49. Interfaz gráfica básica: Escribe un programa que cree una interfaz gráfica simple con botones y cuadros de texto.
+50. Algoritmo genético: Escribe un programa que implemente un algoritmo genético básico para resolver un problema de optimización.

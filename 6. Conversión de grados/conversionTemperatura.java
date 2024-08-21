@@ -1,3 +1,5 @@
+/* 6. Conversión de grados: Escribe un programa que convierta grados Celsius a Fahrenheit. */
+/*-------------------------------------------------------*/
 import java.util.Scanner;
 
 public class conversionTemperatura {

@@ -1,3 +1,7 @@
+/*4. Número mayor: Escribe un programa que solicite tres 
+     números al usuario y determine cuál es el mayor. */
+/*-------------------------------------------------------*/
+
 import java.util.Scanner;
 
 public class numeroMayor {

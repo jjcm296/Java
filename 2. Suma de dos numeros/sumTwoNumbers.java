@@ -1,3 +1,7 @@
+/* Suma de dos números: Escribe un programa que solicite 
+al usuario dos números y muestre la suma de ambos. */
+/*-------------------------------------------------------*/
+
 import java.util.Scanner;
 
 public class sumTwoNumbers { 

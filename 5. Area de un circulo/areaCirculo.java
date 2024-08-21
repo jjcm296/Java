@@ -1,3 +1,6 @@
+/*5. Área de un círculo: Escribe un programa que calcule el 
+     área de un círculo a partir de su radio.*/
+/*-------------------------------------------------------*/
 import java.util.Scanner;
 
 public class areaCirculo {
