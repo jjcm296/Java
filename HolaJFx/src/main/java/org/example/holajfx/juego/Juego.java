@@ -5,16 +5,15 @@ import javafx.application.Application;
 import javafx.scene.Scene;
 import javafx.scene.canvas.Canvas;
 import javafx.scene.canvas.GraphicsContext;
+import javafx.scene.control.Alert;
 import javafx.scene.input.KeyCode;
 import javafx.scene.input.KeyEvent;
 import javafx.scene.layout.Pane;
 import javafx.stage.Stage;
-import javafx.scene.control.Alert;
-import javafx.scene.control.Alert.AlertType;
 
 import java.util.ArrayList;
-import java.util.List;
 import java.util.Iterator;
+import java.util.List;
 
 public class Juego extends Application {
     private Personaje jugador;
@@ -71,8 +70,8 @@ public class Juego extends Application {
         escenario.agregarEnemigo(enemigo2);
         escenario.agregarEnemigo(enemigo3);
         escenario.agregarEnemigo(enemigo4);
-        // escenario.agregarEnemigo(enemigo5);
-        // escenario.agregarEnemigo(enemigo6);
+        escenario.agregarEnemigo(enemigo5);
+        escenario.agregarEnemigo(enemigo6);
     }
 
     private void manejarEntrada(KeyEvent event) {
@@ -89,7 +88,7 @@ public class Juego extends Application {
             moverAbajo = true;
         }
         if (event.getCode() == KeyCode.SPACE) {
-            dispararProyectil(); // Disparar proyectil cuando se presiona la barra espaciadora
+            dispararProyectil();
         }
     }
 

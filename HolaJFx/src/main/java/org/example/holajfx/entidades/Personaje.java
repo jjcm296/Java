@@ -1,9 +1,7 @@
 package org.example.holajfx;
 
-import javafx.geometry.Bounds;
 import javafx.scene.canvas.GraphicsContext;
 import javafx.scene.paint.Color;
-import javafx.scene.shape.Rectangle;
 
 public class Personaje {
     private int x;
